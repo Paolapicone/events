@@ -67,6 +67,9 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            "H2": {
+              "color": "#e6c0c9"
             }
           },
           "_name": "content5",
