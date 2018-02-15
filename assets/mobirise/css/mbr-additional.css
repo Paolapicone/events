@@ -1295,7 +1295,7 @@ body {
   font-weight: 300;
 }
 .cid-qJF5pqONGn .mbr-content-text {
-  color: #767676;
+  color: #090909;
 }
 .cid-qJF5pqONGn .card {
   word-wrap: break-word;
@@ -1339,6 +1339,9 @@ body {
     padding-left: 0;
     padding-bottom: 2rem;
   }
+}
+.cid-qJF5pqONGn .mbr-content-text B {
+  color: #090909;
 }
 .cid-qJEoz8drCR {
   padding-top: 15px;
