@@ -1349,7 +1349,8 @@ body {
 .cid-qK7L82POBg {
   padding-top: 15px;
   padding-bottom: 15px;
-  background: #fff8f9;
+  background: #fcf1f4;
+  background: linear-gradient(45deg, #fcf1f4, #ffffff);
 }
 .cid-qK7L82POBg .video-block {
   margin: auto;
